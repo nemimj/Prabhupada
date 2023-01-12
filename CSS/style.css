@@ -1,0 +1,41 @@
+body{
+
+    background: #d8b78c;
+}
+
+h1{
+  
+}
+
+main{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+.image{
+   max-width: 70%;
+    border-radius: 100%;
+    box-shadow: 10px 10px 15px rgba(39, 35, 35, 0.4);
+}
+
+.title{
+    font-size: 18px;
+    font-weight:bold;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+
+
+footer{
+    max-width: 100%;
+   
+    margin: auto;
+    text-align: center;
+}
+
+
+section p{
+    text-align: left;
+}
